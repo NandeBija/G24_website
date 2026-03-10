@@ -1,0 +1,16 @@
+:root {
+  --secondary: #0A1F44;
+  --primary: #FFB800;
+  --light: #f8f9fa;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: var(--light);
+}
+
+button {
+  cursor: pointer;
+  border: none;
+}

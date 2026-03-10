@@ -42,3 +42,8 @@ __screenshots__/
 .env
 .env.local
 .env.*.local
+
+# environment variables
+.env
+.env.local
+.env.*.local
